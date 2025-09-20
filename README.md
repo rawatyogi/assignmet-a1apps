@@ -44,7 +44,7 @@
  - Simulator Environment(iOS 15.6 +)
 
  ## Clone the Repository:
- - [AssignmentA1Apps GitHub Repository] - will add here
+ - [AssignmentA1Apps GitHub Repository] - https://github.com/rawatyogi/assignmet-a1apps
  
  ## Run the app:
  - Open the project in Xcode.
